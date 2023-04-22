@@ -4,11 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e0549a5-6c8f-459a-b3f2-46eaaebc6651" name="Changes" comment="" />
+    <list default="true" id="6e0549a5-6c8f-459a-b3f2-46eaaebc6651" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/coderslab/AddTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/coderslab/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/coderslab/RemoveTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/coderslab/TaskList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/coderslab/TaskManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/coderslab/TaskManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tasks.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tasks.csv" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -24,9 +39,63 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/ubuntu/coderslab/project/ONL_JEE_W_22_Podstawy_Java-main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.TaskManager">
+    <configuration name="AddTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.coderslab.AddTask" />
+      <module name="TaskManager1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.coderslab.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RemoveTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.coderslab.RemoveTask" />
+      <module name="TaskManager1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.coderslab.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TaskManager" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.coderslab.TaskManager" />
+      <module name="TaskManager1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.coderslab.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TaskManager" />
+        <item itemvalue="Application.RemoveTask" />
+        <item itemvalue="Application.AddTask" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -35,8 +104,13 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1682157756062</updated>
-      <workItem from="1682157757529" duration="2000" />
+      <workItem from="1682157757529" duration="488000" />
+      <workItem from="1682158266908" duration="73000" />
+      <workItem from="1682158352189" duration="18003000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
