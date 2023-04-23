@@ -12,11 +12,11 @@ public class AddTask {
         String[] taskDescription = {"Please add task description", "Please add task due date", "Is your task is important: true/false"};
         for(String item : taskDescription){
             System.out.println(item);
-            writing.append(scanner.nextLine() + " ");
+            writing.append(scanner.nextLine() + ", ");
         }
         try(FileWriter fileWriter = new FileWriter("tasks.csv", true)){
 
-            fileWriter.append("\n").append(writing.toString().trim().replace(" ", ", "));
+            fileWriter.append("\n").append(writing.toString().substring(0, writing.length()-2));
 
         }catch (IOException e){
             System.out.println("Problem with write to file");

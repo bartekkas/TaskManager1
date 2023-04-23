@@ -6,6 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="6e0549a5-6c8f-459a-b3f2-46eaaebc6651" name="Changes" comment="added new files regarding the menu TaskManager">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/coderslab/AddTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/coderslab/AddTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/coderslab/RemoveTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/coderslab/RemoveTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/coderslab/TaskManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/coderslab/TaskManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tasks.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tasks.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +37,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/ubuntu/coderslab/project/ONL_JEE_W_22_Podstawy_Java-main",
+    "last_opened_file_path": "/home/ubuntu/coderslab/project/poligon",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -100,7 +104,8 @@
       <updated>1682157756062</updated>
       <workItem from="1682157757529" duration="488000" />
       <workItem from="1682158266908" duration="73000" />
-      <workItem from="1682158352189" duration="19075000" />
+      <workItem from="1682158352189" duration="20943000" />
+      <workItem from="1682239250124" duration="12312000" />
     </task>
     <task id="LOCAL-00001" summary="added new files regarding the menu TaskManager">
       <created>1682191203045</created>
@@ -116,7 +121,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682192530327</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="added new files regarding the menu TaskManager">
+      <created>1682192551582</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1682192551582</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
